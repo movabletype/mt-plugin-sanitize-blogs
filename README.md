@@ -1,4 +1,4 @@
-# SanitizeBlogs, a plugin for Movable Type
+# Sanitize Blogs, a plugin for Movable Type
 
 Authors: Six Apart Ltd.  
 Copyright: 2009 Six Apart Ltd.  
