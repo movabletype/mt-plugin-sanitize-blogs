@@ -1,8 +1,8 @@
 # Sanitize Blogs, a plugin for Movable Type
 
-Authors: Six Apart Ltd.  
-Copyright: 2009 Six Apart Ltd.  
-License: [Artistic License 2.0](http://www.opensource.org/licenses/artistic-license-2.0.php)
+* Authors: Six Apart Ltd.
+* Copyright: 2009 Six Apart Ltd.
+* License: [Artistic License 2.0](http://www.opensource.org/licenses/artistic-license-2.0.php)
 
 
 ## Overview
@@ -24,7 +24,7 @@ Functions in same manner as, but is distinct from, the [GlobalSanitizeSpec](http
     * Extended
     * Excerpt
     * Keywords
-* specify domain prefix for which 
+* specify domain prefix for which
 
 
 ## Documentation
@@ -48,7 +48,7 @@ Sample URL:
 
 ## Installation
 
-1. Move the SanitizeBlogs plugin directory to the MT `plugins` directory.
+1. Move the `SanitizeBlogs` plugin directory to the MT `plugins` directory.
 
 Should look like this when installed:
 
@@ -59,11 +59,6 @@ Should look like this when installed:
 [More in-depth plugin installation instructions](http://tinyurl.com/easy-plugin-install).
 
 
-## Desired Feature Wish List
-
-* add wish-list item here
-
-
 ## Support
 
-This plugin is not an official Six Apart Ltd. release, and as such support from Six Apart Ltd. for this plugin is not available.
+This plugin is not an official Six Apart release, and as such support from Six Apart for this plugin is not available.
